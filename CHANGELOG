@@ -1,0 +1,17 @@
+-   Codeigniter 3.1.11
+    - Dynamic Base URL
+    - Remove index.php with .htaccess
+    - Enable Autoload Composer
+    - Enable Composer Autoload
+-   .gitignore
+    - vendor folder
+-   Blade (jenssegers/blade)
+    - Installation Basic
+    - Add view_helper.php
+-   Laravel Mix
+    - Installation Basic
+    - Install Gentelella
+-   Gentelella Alela
+    - Copy all file or folder gentelella to assets folder
+    - Slice Layouts
+    - Implementation All Template
