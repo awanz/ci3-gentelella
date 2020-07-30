@@ -73,5 +73,10 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 Installation
 ***************
 
-git clone <url>
+git clone https://github.com/awanz/ci3-gentelella.git
+
 composer update
+
+npm install
+
+npm run dev
