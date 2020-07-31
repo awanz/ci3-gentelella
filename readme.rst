@@ -77,6 +77,6 @@ git clone https://github.com/awanz/ci3-gentelella.git
 
 composer update
 
-npm install
+npm update
 
 npm run dev
